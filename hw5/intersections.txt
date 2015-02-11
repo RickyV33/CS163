@@ -1,0 +1,18 @@
+SW Butner Rd x SW Cedar Hills Blvd;SW Cedar Hills Blvd x HWY-26
+SW Cedar Hills Blvd x HWY-26;SW Cedar Hills Blvd x HWY-26
+SW Cedar Hills Blvd x HWY-26;SW Cedar Hills Blvd x SW Barnes Rd
+SW Cedar Hills Blvd x SW Barnes Rd;SW Baltic Ave x SW Barnes Rd
+SW Baltic Ave x SW Barnes Rd;SW Barnes Rd x W Burnside Rd
+SW Barnes Rd x W Burnside Rd;W Burnside Rd x SW Skyline Rd
+W Burnside Rd x SW Skyline Rd;W Burnside Rd x SW Broadway
+W Burnside Rd x SW Skyline Rd;W Burnside Rd x SW 13th Ave
+W Burnside Rd x SW 13th Ave;HWY-26 x SW Market St
+SW Butner Rd x SW Cedar Hills Blvd;SW Park Way x SW Butner Rd
+SW Park Way x SW Butner Rd;SW Baltic Ave x SW Park Way
+SW Baltic Ave x SW Park Way;SW Baltic Ave x SW Barnes Rd
+SW Cedar Hills Blvd x HWY-26;HWY-26 x HWY-217
+HWY-26 x HWY-217;HWY-26 x SW Market St
+HWY-26 x SW Market St;SW Market St x SW Broadway
+HWY-26 x HWY-217;HWY-26 x SW Jefferson St
+HWY-26 x SW Jefferson St;SW Jefferson St x SW Broadway
+SW Jefferson St x SW Broadway;SW Market St x SW Broadway
